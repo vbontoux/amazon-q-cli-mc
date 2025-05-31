@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "weather": {
+            "command": "uvx",
+            "args": ["--from", "git+https://github.com/adhikasp/mcp-weather.git", "mcp-weather"],
+            "env": {
+                "ACCUWEATHER_API_KEY": "GzxXDAK6qsjEZBi34NB1O5MeTtA1q8DV"
+            }
+        }
+  }
+}
+
