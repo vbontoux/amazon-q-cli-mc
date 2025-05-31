@@ -1,6 +1,0 @@
-weather-mcp-server/
-│
-├── server.py           # Main MCP server implementation (FastAPI)
-├── requirements.txt    # Python dependencies
-├── README.md          # Setup and usage instructions
-└── .env.example       # Template for API key configuration
