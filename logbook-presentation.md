@@ -5,7 +5,7 @@ paginate: true
 backgroundColor: #fff
 ---
 
-## Amazon Q CLI with MCP Demo
+## ![alt text](amazonq.png) Amazon Q CLI with MCP Demo
 ### Demo project to showcase Amazon Q CLI with Model Context Protocol (MCP) integration.
 
 * Explores various configurations of mcp servers
